@@ -8,7 +8,7 @@
 ## 🛠 Skills
 - Linux & Networking Basics  
 - Python & C Programming  
-- ELK, Nmap, Metasploit  
+- ELK, Nmap, Wazuh
 - Git & GitHub  
 ---
 
