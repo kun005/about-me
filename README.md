@@ -13,6 +13,7 @@
 ---
 
 ## 📫 Contact
-- **Facebook:** [Nguyễn Văn Trung](https://www.facebook.com/nguyenvantrung.bg2005)  
-- **Instagram:** [vantrung_05](https://www.instagram.com/vantrung_05/)  
-- **Email:** nvtrung0351@gmail.com  
+- **Facebook** [Nguyễn Văn Trung](https://www.facebook.com/nguyenvantrung.bg2005)  
+- **Instagram** [vantrung_05](https://www.instagram.com/vantrung_05/)  
+- **Email** nvtrung0351@gmail.com  
+- **Phone**: 0387977843 or 0777848059 
